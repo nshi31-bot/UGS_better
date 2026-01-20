@@ -25,7 +25,7 @@
             flex-direction: column;
             gap: 8px;
             overflow-y: auto;
-            box-shadow: 2px 0 10px rgba(0,0,0,0.3);
+            box-shadow: 2px 0 10px rgba(243, 215, 124);
             z-index: 1000;
         }
 
