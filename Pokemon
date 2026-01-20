@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>UGS Files</title>
+    <title>Pokemon Files</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -122,7 +122,7 @@
         }
 
         input[type="button"] {
-            background: rgb(89, 134, 218);
+            background: rgb(243, 215, 124);
             border: none;
             padding: 15px 30px;
             font-size: 16px;
@@ -172,9 +172,9 @@
     <div class="main-content">
         <h1>UGS Files</h1>
     <h2 style="color: white; text-align: center; margin-bottom: 30px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-weight: normal; font-size: 18px;">
-    Files from 
+    Private Site:
     <a 
-POLYTRACK-CORPS
+Ezra
 
         target="_blank" 
         style="display: inline; color: #79aadb; text-decoration: none; font-size: 18px; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
