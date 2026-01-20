@@ -25,7 +25,7 @@
             flex-direction: column;
             gap: 8px;
             overflow-y: auto;
-            box-shadow: 2px 0 10px rgba(243, 215, 124);
+            box-shadow: 2px 0 10px rgba(0,0,0);
             z-index: 1000;
         }
 
@@ -43,7 +43,7 @@
         }
 
         .sidebar-btn {
-            background: rgb(89, 134, 218);
+            background: rgb(243, 215, 124);
             border: none;
             padding: 12px;
             font-size: 18px;
